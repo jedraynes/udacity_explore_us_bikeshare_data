@@ -5,4 +5,6 @@ In this project, Bikeshare from three major cities: Washington, DC, Chicago, and
 
 Packages used: csv, datetime, pprint, matplotlib.
 
+Languages: Python via Jupyter Notebook.
+
 jedraynes
